@@ -1,6 +1,6 @@
 ### Name:Tanushree A
 ### Reg No:212223100057
-EX-21-POINTERS
+## EX-21-POINTERS
 # AIM:
 Write a C program to convert a 23.65 into 25 using pointer
 
